@@ -15,6 +15,7 @@ npm-debug.log*
 *.sln
 *.sw*
 package-lock.json
+*.txt
 
 /assets
 /.vscode
