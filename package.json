@@ -79,5 +79,6 @@
   "prettier": "office-addin-prettier-config",
   "browserslist": [
     "ie 11"
-  ]
+  ],
+  "homepage": "https://thejaswin123.github.io/aigencontent"
 }
